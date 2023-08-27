@@ -1,16 +1,6 @@
-# translator_plus_sample
+I created this app to testing package translator_plus in Flutter language to Hebrew. I tested and running Okay!
 
-A new Flutter project.
+![image](https://github.com/williamidt/translator_plus_sample/assets/65929403/8d22f06f-9d97-448d-a26e-3c3bb4026e3d)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+i tested only vm android 
+If you have some doubles, open issue or question here in github, thanks!
